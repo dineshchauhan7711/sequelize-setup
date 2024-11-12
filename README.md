@@ -1,1 +1,1 @@
-Sequelize and node JS basic setup.
+# Sequelize and Node JS basic setup.
